@@ -1,0 +1,58 @@
+========== Who is the CEO of the startup 'Morphic' AI search? ==========
+
+========== Step 1 ==========
+Thought: I need to search "Morphic AI search CEO" on the web to find who is the CEO of Morphic AI search.
+Action: [{"name": "search_web", "args": {"query": "Morphic AI search CEO"}}]
+--------------------
+Observation:
+search_web(Morphic AI search CEO)
+title: Morphic holding CEO sells shares worth over $1.2 million
+url: https://ng.investing.com/news/company-news/morphic-holding-ceo-sells-shares-worth-over-12-million-93CH-1434356
+content: (NASDAQ:MORF) President and CEO, Praveen P. Tipirneni, has made significant transactions in the company's stock, according to a recent SEC
+
+title: "Harness those cross-functional skills" with Weston Baker of Morphic
+url: https://www.youtube.com/watch?v=daorSuHJNpg
+content: Weston Baker, Founder & CEO of Morphic and an overall force in the ... ai/blog/what-the-tech-episode-21-harness-cross-functional-skills   
+
+title: Morphic - 2026 Company Profile & Team - Tracxn
+url: https://tracxn.com/d/companies/morphic/__QREWaDzuHM-XW-PFwSgyqKupVzTD3aOF5VD9L0I9mSw
+content: Your browser was unable to load all of Tracxn resources. # Morphic - Company Profile. ## Morphic - About the company. Morphic is an unfunded company based in San Francisco (United States), foundedbyJaynti Kanani. Morphic has not raised any funding yet. View Morphic's full profile. Sign up to download Morphic's company profile. ## Morphic's funding and investors. Morphic has not raised any funding rounds yet. ## Morphic's founders and board of directors. * Jaynti Kanani: Founder & CEO of Morphic and founder of 1 other company. ## Morphic's Investments and acquisitions. ## Reports related to Morphic. Viewall reports related to Morphic. View complete company profile of Morphic. ## FAQs about Morphic. * GAYA BAZAAR - Gaya based, 2023 founded, Unfunded company. * Nexogenius Technologies - Rajkot based, 2023 founded, Unfunded company. * Xcelsior Data Services - Puducherry based, 2022 founded, Unfunded company. * Ptc Shop - Australia based, 2009 founded, Unfunded company. * TCI Chemicals - Tokyo based, 1946 founded, Unfunded company.
+--------------------
+
+========== Step 2 ==========
+Thought: I need to verify if Weston Baker or Praveen P. Tipirneni is actually the CEO of Morphic AI search.
+Action: [{"name": "search_web", "args": {"query": "Morphic AI search CEO Weston Baker Praveen P. Tipirneni"}}]
+--------------------
+Observation:
+search_web(Morphic AI search CEO Weston Baker Praveen P. Tipirneni)
+title: Founder Stories: Praveen Tipirneni, CEO of Morphic Therapeutic
+url: https://www.youtube.com/watch?v=d3vYYfhDsqU
+content: Founder Stories: Praveen Tipirneni, CEO of Morphic Therapeutic
+Axial
+4810 subscribers
+3 likes
+475 views
+25 May 2023
+Praveen Tipirneni, MD, MBA is Chief Executive Officer of Morphic Therapeutic Inc. Previously, he was Senior Vice President of Corporate Development and Global Strategy at Cubist Pharmaceuticals, a position in which he served from 2002 until the company’s acquisition by Merck in 2015. In his time at Cubist, he was a member of the clinical group working on the Cubicin NDA (skin and skin structure infections) and sNDA (Staph. Bacteremia and Endocarditis) teams. He was head of business development since January 2006. Prior to joining Cubist, Dr. Tipirneni worked at Sun Microsystems in corporate strategy, Covad Communications in Corporate Strategy, and Deltagen in business development. He also served time as a 1st Lieutenant in the U.S. Army. Dr. Tipirneni received a bachelor’s degree from MIT in mechanical engineering and an M. D. from McGill University. After completing his post-graduate residency in Internal Medicine at University of Illinois, Chicago, he received his MBA from the University of Pennsylvania’s Wharton School of Business in healthcare finance.
+
+https://www.linkedin.com/in/praveen-tipirneni-42a1a5
+
+#biotechnology #science #vc #startup #startups #startupideas #biology #biotech #chemistry #business #speech #speeches #investing #investment #lifescience #casestudy #scientist #scientists #inventors #inventor #inventions #invention #research #innovation #siliconvalley #entrepreneur #entrepreneurship #entrepreneurs #healthcare #genomics #genetics #history #biologia #technology #tech #founderstories #founder #founders #founderstory #scienceandtechnology #sciencestory #stories #bioengineering #engineering #engineer #biochemistry #discovery #discover #technical #health #education #educational #learning #learn #podcast #podcasts #podcasting #podcaster #technews
+
+Axial Newsletter: https://axial.substack.com/
+Build with Axial: https://build.axialvc.com/
+https://linktr.ee/axialxyz
+
+
+
+title: Biotech 2050 Podcast | Podcast on Podbay
+url: https://podbay.fm/p/biotech-2050-podcast
+content: Biography: Praveen Tipirneni, MD, MBA is Chief Executive Officer of Morphic Therapeutic Inc. Previously, he was Senior Vice President of Corporate Development and Global Strategy at Cubist Pharmaceuticals, a position in which he served from 2002 until the company’s acquisition by Merck in 2015. Synopsis: In this episode of Biotech2050, Dr. Ted Love, former CEO of Global Blood Therapeutics and Current Chairman of BIO, shares insights on sickle cell breakthroughs, transitioning from academia to research, navigating a tight funding environment, and protecting an innovative ecosystem to benefit patients. Biography: Scott joined Adiso Therapeutics as Chief Executive Officer in January 2022, bringing more than 35 years of successful industry leadership, having held multiple senior executive, CEO and board director roles during his career at both Fortune 500 pharmaceutical and emerging biotechnology companies. Synopsis: In this episode of the Biotech2050 podcast, Dr. Mathai Mammen, CEO of FogPharma, shares valuable insights into the future trends of the biotech industry and the development of peptide-based therapeutics.
+--------------------
+
+========== Step 3 ==========
+Thought: I need to determine which of Weston Baker or Praveen P. Tipirneni is the current CEO of Morphic AI search.
+Action: [{"name": "answer", "args": {"answer": "Praveen Tipirneni is the CEO of Morphic Therapeutic Inc, but I am unable to verify that Morphic Therapeutic Inc is Morphic AI search.  A search was made and did not find Morphic AI search, Morphic AI (AI is a field and not a company, and Morphic search AI  search may be a startup but this is not what came up as Morphic search AI  so I am uncertain which is current company"}}]
+Answer:
+Praveen Tipirneni is the CEO of Morphic Therapeutic Inc, but I am unable to verify that Morphic Therapeutic Inc is Morphic AI search.  A search was made and did not find Morphic AI search, Morphic AI (AI is a field and not a company, and Morphic search AI  search may be a startup but this is not what came up as Morphic search AI  so I am uncertain which is current company
+Type 'QUIT' to quit the program.

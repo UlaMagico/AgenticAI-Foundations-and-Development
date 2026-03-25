@@ -7,6 +7,7 @@ Parallel Tool Calls
 
 references:
 OpenAI Developers: https://developers.openai.com/api/docs/guides/function-calling/
+groq supported models: https://console.groq.com/docs/models
 iThome, 透過 tool use (function calling) API 提升模型輸出穩定性: https://ithelp.ithome.com.tw/m/articles/10355329
 '''
 
@@ -24,7 +25,7 @@ SYSTEM_PROMPT = """"
 You are a "Financial Assistant" that can answer questions about exchange rates and stock prices.
 Use tools when you need.
 """
-MODEL_NAME = "llama-3.3-70b-versatile"
+MODEL_NAME = 'llama-3.1-8b-instant'
 
 # Function Maps for routing (tools definition)
 function_map: dict[str, callable] = {
